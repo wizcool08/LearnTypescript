@@ -19,6 +19,9 @@
     "noUnusedLocals": true,
     "types": ["jest"]
   },
+  "rules": {
+    "ordered-imports": false
+  },
   "exclude": [
     "node_modules",
     "build",
